@@ -4,7 +4,7 @@ A machine learning-powered web application that predicts whether a financial tra
 
 ## 🌐 Live Demo
 
-🔗 **Application:** https://YOUR-DEPLOYMENT-LINK
+🔗 **Application:** https://creditcard-fraud-prediction.onrender.com/
 
 ---
 
@@ -21,11 +21,11 @@ A machine learning-powered web application that predicts whether a financial tra
 
 ## 📸 Preview
 
-> Add screenshots of your application here.
+
 
 | Dashboard          | Prediction         |
 | ------------------ | ------------------ |
-| *(Add Screenshot)* | *(Add Screenshot)* |
+|<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/1a8a1ced-f798-4f18-8fc2-fb1316206520" />| <img width="350" height="auto" alt="image" src="https://github.com/user-attachments/assets/ef026cd8-e405-416f-92a9-81d2d8ef30e2" />|
 
 ---
 
